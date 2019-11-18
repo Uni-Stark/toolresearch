@@ -104,7 +104,7 @@
 2. Git을 이용하기 위한 조작방법을 익히는게 어려울 수 있다.
 
 >Git을 주로 사용하는 직군은 개발자 직군이 많다. 개발자들에게 있어서 GUI보다 CLI가 익숙한 경우가 있다.
-그래서 GUI(Graphic User Interface)보다 CLI(Command Line Interface)를 이용해서 Git을 관리하는 경우도 존재한다. 그래서 송상무님이나 신이사님이 이용하기에는 다소 무리가 있을 수 있다.	물론 아래 Sourcetree사진을 보면 UI/UX를 통하여 관리할 수 있지만, 새로운걸 배워야 한다는 진입장벽이 존재하기 때문에 팔자가 문서를 잘 만들면 극복할 수 있다고 생각된다.</br> <img src="./markdown/img/git_bash_pic.png" width="600"/> </br> <h4>Git bash</h4> Git bash를 이용하기 위해서는 이와같이 명령어를 입력해 주어야한다.</br></br> <img src="./markdown/img/sourcetree_pic.png" width="600"/> </br></br> <h4>Sourcetree</h4> 명령어나 CLI를 잘 다루지 못한다면 위 사진과 같은 GUI로 Git 저장소를 관리할 수 있다.
+그래서 GUI(Graphic User Interface)보다 CLI(Command Line Interface)를 이용해서 Git을 관리하는 경우도 존재한다. 그래서 송상무님이나 신이사님이 이용하기에는 다소 무리가 있을 수 있다.	물론 아래 Sourcetree사진을 보면 UI/UX를 통하여 관리할 수 있지만, 새로운걸 배워야 한다는 진입장벽이 존재하기 때문에 팔자가 문서를 잘 만들면 극복할 수 있다고 생각된다.</br></br> <img src="./markdown/img/git_bash_pic.png" width="600"/> </br> <h4>Git bash</h4> Git bash를 이용하기 위해서는 이와같이 명령어를 입력해 주어야한다.</br></br> <img src="./markdown/img/sourcetree_pic.png" width="600"/> </br><h4>Sourcetree</h4> 명령어나 CLI를 잘 다루지 못한다면 위 사진과 같은 GUI로 Git 저장소를 관리할 수 있다.
 
 
 #### <i>Git이 우리회사랑 어떻게 잘 어울릴까?</i>
