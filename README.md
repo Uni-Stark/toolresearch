@@ -135,15 +135,15 @@
 
 1.  다양한 기능의 존재
 > 콜라비에는 정말 다양한 기능들이 한 곳에 모여있다. 칸반보드, File Management, Calendar, Issue Tracking 등이 한 곳에 보여있다. 내가 필요한 기능들이 한자리에 모여있기 때문에 편하게 이용하기만 하면 된다. </br></br>
-> <h4>협업공간 및 칸반보드</h4>
-> <div>원하는 부서 / 프로젝트 별 협업공간을 따로 만들어서 칸반보드를 이용할 수 있다. 부서, 프로젝트 별 칸반보드를 따로 제공해서 TODO-List 작성이 한결 간편해진다.</div>
+> <h3>협업공간 및 칸반보드</h3>
+> <div>원하는 부서 / 프로젝트 별 협업공간을 따로 만들어서 칸반보드를 이용할 수 있다. 부서, 프로젝트 별 칸반보드를 따로 제공해서 TODO-List 작성이 한결 간편해진다.</div></br>
 ><img src="./markdown/img/collabee_kanban.png"/></br></br>
-><h4> 켈린더를 통한 Calendar 관리</h4>
-><div>콜라비에서는 협업공간 각기 다른 캘린더 설정이 가능하다. 또한 그 캘린더들을 한번에 관리해주는 통합 캘린더가 존재한다. 그래서 일정관리가 훨씬 수월해진다.</div>
+><h3> 켈린더를 통한 Calendar 관리</h3>
+><div>콜라비에서는 협업공간 각기 다른 캘린더 설정이 가능하다. 또한 그 캘린더들을 한번에 관리해주는 통합 캘린더가 존재한다. 그래서 일정관리가 훨씬 수월해진다.</div></br>
 ><img src="./markdown/img/collabee_todo_list.png" /></br>
 ><img src="./markdown/img/collabee_calendar.png"/></br>
-><h4>Issue Tracking</h4>
-><div>Iusse Tracking을 통해 수정해야할 내용, 등을 확인할 수 있다. 또한 협업공간, 프라이빗 공간 등을 통하여 각각의 공간마다 Issue Tracking을 할 수 있고 모든 Issue를 한번에 확인할 수 있다 </div>
+><h3>Issue Tracking</h3>
+><div>Iusse Tracking을 통해 수정해야할 내용, 등을 확인할 수 있다. 또한 협업공간, 프라이빗 공간 등을 통하여 각각의 공간마다 Issue Tracking을 할 수 있고 모든 Issue를 한번에 확인할 수 있다 </div></br>
 ><img src="./markdown/img/collabee_issue_tracking.png" /></br></br>
-><h4>Google Drive 연동</h4>
+><h3>Google Drive 연동</h3>
 ><img src="./markdown/img/collabee_google_drive.png" width='550'/>
