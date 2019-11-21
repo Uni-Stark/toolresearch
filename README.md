@@ -109,7 +109,9 @@
 
 
 #### <i>Git이 우리회사랑 어떻게 잘 어울릴까?</i>
-    > 개인적으로 Git은 우리회사랑 잘 맞는다 생각한다. 그 이유는 아래와 같다.
+개인적으로 Git은 우리회사랑 잘 맞는다 생각한다. 그 이유는 아래와 같다.
+
+<div><i><h3>Git이 우리회사랑 어떤점에서 잘 어울릴까?</h3></i> 내 답은 ```Yes```다.</div>
 
 1. 프로젝트 관리의 편리
     > Git은 프로젝트 관리하기에 정말 편리하다. 또한 저장소 또한 무제한으로 만들 수 있다. 이러한 장점들은 비단 개발이 아니더라도 사업, 프로젝트가 다양한 우리 회사에게있어서 다양한 파일과 프로젝트 관리를 용이하게 해준다.
@@ -147,4 +149,5 @@
     ><h3>Google Drive 연동</h3>
     ><div>콜라비는 File Upload가 가능한데, Local에서 뿐만아니라 Google Drive를 연동할 수 있어서 쉽고 빠르게 File Upload가 가능하다.</div>
     ><center><div><img src="./markdown/img/collabee_google_drive.png" width='550'/></div></center>
-![title](./markdown/img/collabee_logo.png){: width="300" height="300"){: .center}
+
+2. 시간절약
