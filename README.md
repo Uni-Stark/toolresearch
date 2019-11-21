@@ -147,3 +147,4 @@
     ><h3>Google Drive 연동</h3>
     ><div>콜라비는 File Upload가 가능한데, Local에서 뿐만아니라 Google Drive를 연동할 수 있어서 쉽고 빠르게 File Upload가 가능하다.</div>
     ><center><div><img src="./markdown/img/collabee_google_drive.png" width='550'/></div></center>
+![title](./markdown/img/collabee_logo.png){: width="300" height="300"){: .center}
