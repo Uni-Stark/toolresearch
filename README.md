@@ -61,13 +61,13 @@
 <center><img src="./markdown/img/git_pic.png" width="550"/></center>
 
 
-## Git - <i>"개발자들이라면 누구나 다 아는 프로젝트 관리 툴" </i>
+<h2> Git - <i>"개발자들이라면 누구나 다 아는 프로젝트 관리 툴" </i></h2>
 
-#### <i>About Git</i>
+<h3> <i>About Git</i></h3>
 
 >가장 먼저 소개할 것은 Git이다. Git은 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사용자들 간에 해당 파일들의 작업을 조율하기 위한 분산 버전 관리 시스템이다. 많은 사람들이 지칭하는 `Github는 Git을 쉽게 관리하기 위한 웹 호스팅 서비스`이다. 쉽게 말하자면 Git을 관리하기 위해 웹 사이트로 만들어 놓은 UI/UX이다.₩
 
-#### <i>Git's advantage</i>
+<h3> <i>Git's advantage</i></h3>
 
 1. 저장소를 무제한으로 생성가능하다.
 
@@ -82,7 +82,7 @@
 	>명령어 혹은 UI를 통해 `파일을 올리면 해당 파일이 가장 최신의 파일`이 된다. 그렇기 때문에 업무 상 파일의 버전때문에 야기되는 혼동을 피할 수 있게 된다.
 
 
-#### <i>Git's disadvantage</i>
+<h3> <i>Git's disadvantage</i></h3>
 
 1. Private한 저장소를 만들려면 요금제 가입이 필수다.
 
@@ -115,14 +115,14 @@
 
 <center><img src="./markdown/img/collabee_logo.png" width="300"/></center>
 
-## Collabee - "당신이 사용하는 Tool의 Collaboration"
+<h2> Collabee - "당신이 사용하는 Tool의 Collaboration" </h2>
 
-#### About Collabee
+<h3><i> About Collabee</i></h3>
 
 > 콜라비팀은 콜라비를 만들 때 `시간을 돌려준다` 라는 비전으로 툴을 만들었다. 필자가 해석한 이 '시간을 돌려준다'라는 의미는, 여러 기능을 한데 묶어서 시간을 '절약'한다 라는 의미로 받아들였다. 그에 걸맞게 콜라비는 Calendar, Issue Tracking, 칸반보드, File Upload 등의 기능을 녹여넣었다.
 
 
-#### Collabee's Advantage
+<h3><i> Collabee's Advantage </i></h3>
 
 1.  다양한 기능의 존재
     > 콜라비에는 정말 다양한 기능들이 한 곳에 모여있다. 칸반보드, File Management, Calendar, Issue Tracking 등이 한 곳에 보여있다. 내가 필요한 기능들이 한자리에 모여있기 때문에 편하게 이용하기만 하면 된다. </br></br>
@@ -143,7 +143,7 @@
 2. 시간절약
 	>1번에서 보여주었 듯 다양한 기능이 존재한다는 것은 해당 기능을 사용하기 위해서 `A라는 툴에서 B라는 툴로 옮겨 가는 시간을 줄여준다.` 또한 A라는 툴을 사용하기 위한 사용법, B라는 툴을 사용하기 위한 사용법을 각각 익힐 필요없이 `콜라비 툴 하나의 사용법만 익혀야 되서 시간을 절약`해준다.
 
-#### Collabee's Disadvantage
+<h3> <i>Collabee's Disadvantage</i></h3>
 
 1. 툴의 미완성
 	> 콜라비는 아직 갈길이 멀다. 왜냐하면 아직 툴의 많인 기능들이 구현중에 있기 때문이다. 
