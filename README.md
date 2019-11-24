@@ -169,5 +169,5 @@
 <h3> <i>Slack's Advantage</i></h3>
 
 1. 무료 버전으로 가입해도 인원수와 기능에 제한이 없다.
-	>Slack은 얼마든지 무료로 사용이 가능하다. 커뮤니케이션 툴에 걸맞게 인원제한, 기능에 큰 제한 없이 무료로 사용이 가능하다. 다만 유료회원으로 전환이 되면, 많은 기능이 제공되는데, 그 기능들 중 일부는 아래와 같다. (참고링크 : <a src="https://slack.com/intl/en-kr/pricing" href="_blank">여기</a>)
+	>Slack은 얼마든지 무료로 사용이 가능하다. 커뮤니케이션 툴에 걸맞게 인원제한, 기능에 큰 제한 없이 무료로 사용이 가능하다. 다만 유료회원으로 전환이 되면, 많은 기능이 제공되는데, 그 기능들 중 일부는 아래와 같다. (참고링크 : <a href="https://slack.com/intl/en-kr/pricing" target="_blank">여기</a>)
 	><img src='./markdown/img/slack_price.png' width="550"/>
