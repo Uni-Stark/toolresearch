@@ -1,10 +1,5 @@
 # Tool Research
 
-### 작성자 : 김광운
-### 작성일 : 2019.11.15일 시작
-### 코멘트 : 으아아아아아아아아아아아아아아
-
-
 # 1. Intro - <i>"혼돈의 카오스를 피하자"</i>
 
 <center><img src="./markdown/img/chaos_pic.png" width="550"/></center>
@@ -73,6 +68,7 @@
 
 	> Git을 사용하면 저장소라는 개념을 쓰며 하나의 저장소를 프로젝트를 관리하는 폴더라고 생각하면 된다.
 	> 이때 Git에서는 이러한 저장소를 생성하는데 제한을 두지 않고,`무제한으로 생성이 가능하다.`따라서 각 프로젝트마다 저장소가 구분이 되어있어 관리하기가 편하며, 무제한으로 생성할 수 있어 제한성이 없는 장점이 있다.
+	> <img src="./markdown/img/git_repo.png"/>
 
 2. 요금을 납부해서 사용하는 것과 큰 차이가 없다.
 
@@ -80,6 +76,7 @@
 
 3. 파일의 버전관리가 쉽다.
 	>명령어 혹은 UI를 통해 `파일을 올리면 해당 파일이 가장 최신의 파일`이 된다. 그렇기 때문에 업무 상 파일의 버전때문에 야기되는 혼동을 피할 수 있게 된다.
+	><img src="./markdown/img/git_version_mgmt.png"/>
 
 
 <h3> <i>Git's disadvantage</i></h3>
@@ -135,12 +132,12 @@
     ><img src="./markdown/img/collabee_calendar.png"/></br></br>
     ><h3>Issue Tracking</h3>
     ><div>Iusse Tracking을 통해 수정해야할 내용, 등을 확인할 수 있다. 또한 협업공간, 프라이빗 공간 등을 통하여 각각의 공간마다 Issue Tracking을 할 수 있고 모든 Issue를 한번에 확인할 수 있다 </div></br>
-    ><img src="./markdown/img/collabee_issue_tracking.png" /></br></br>
+    ><img src="./markdown/img/collabee_issue_tracking.png" />
+    ></br>
     ><h3>Google Drive 연동</h3>
     ><div>콜라비는 File Upload가 가능한데, Local에서 뿐만아니라 Google Drive를 연동할 수 있어서 쉽고 빠르게 File Upload가 가능하다.</div>
     ><center><div><img src="./markdown/img/collabee_google_drive.png" width='550'/></div></center>
 
-</br>
 
 2. 시간절약
 	>1번에서 보여주었 듯 다양한 기능이 존재한다는 것은 해당 기능을 사용하기 위해서 `A라는 툴에서 B라는 툴로 옮겨 가는 시간을 줄여준다.` 또한 A라는 툴을 사용하기 위한 사용법, B라는 툴을 사용하기 위한 사용법을 각각 익힐 필요없이 `콜라비 툴 하나의 사용법만 익혀야 되서 시간을 절약`해준다.
@@ -181,8 +178,6 @@
 	><img src='./markdown/img/slack_price.png' /></br>
 	><img src="./markdown/img/slack_advanced_func.png" /></br>
 
-</br>
-
 2. 기존 솔루션과의 연결성
 	> Slack은 다른 업무 툴과의 연결성이 굉장히 좋다. 구글드라이브, 드롭박스, 트렐로 등과 연동이 되어, 연결된 구글드라이브나 트렐로에 새로운 파일, 일정 등과 같은 이벤트가 발생하면 알람으로 보내주어서 일일이 다른 사람들에게 이벤트 발생에 대한 내용을 보내지 않아도 공유가 가능하다.
 
@@ -198,3 +193,10 @@
 <h3><i>Slack이 우리 회사에 어울릴까?</i></h3>
 
 > Unbound tech 팀과의 커뮤니케이션을 고려했을 때, 우리에게 있어서 Slack은 사용해야할 수 밖에 없는 커뮤니케이션 툴이다. 물론 Unbound 팀과의 연락을 제외하면 사실상 사용할 일이 많지 않겠지만, Unbound팀과의 원활한 커뮤니케이션을 위하여 Slack을 알아야 하고 사용해 볼 필요성은 존재한다.
+> <img src="./markdown/img/slack_communication.png"/>
+
+
+*****
+<img src="./markdown/img/trello_logo.png" width="600'"/>
+
+<h2> <i>Trello - "칸반보드의 대표 툴"</i></h2>
