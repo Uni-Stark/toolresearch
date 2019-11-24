@@ -115,7 +115,7 @@
 
 <center><img src="./markdown/img/collabee_logo.png" width="300"/></center>
 
-<h2> Collabee - "당신이 사용하는 Tool의 Collaboration" </h2>
+<h2> Collabee - "여러가지 업무용 툴의 Collaboration" </h2>
 
 <h3><i> About Collabee</i></h3>
 
@@ -140,8 +140,12 @@
     ><div>콜라비는 File Upload가 가능한데, Local에서 뿐만아니라 Google Drive를 연동할 수 있어서 쉽고 빠르게 File Upload가 가능하다.</div>
     ><center><div><img src="./markdown/img/collabee_google_drive.png" width='550'/></div></center>
 
+</br>
+
 2. 시간절약
 	>1번에서 보여주었 듯 다양한 기능이 존재한다는 것은 해당 기능을 사용하기 위해서 `A라는 툴에서 B라는 툴로 옮겨 가는 시간을 줄여준다.` 또한 A라는 툴을 사용하기 위한 사용법, B라는 툴을 사용하기 위한 사용법을 각각 익힐 필요없이 `콜라비 툴 하나의 사용법만 익혀야 되서 시간을 절약`해준다.
+
+</br>
 
 <h3> <i>Collabee's Disadvantage</i></h3>
 
@@ -166,21 +170,30 @@
 
 > 슬랙은 기업용 메신저로, Tiny Speck이라는 게임 회사에서 내부 커뮤니케이션을 위해 만들었는데, 실리콘밸리에서 엄청난 호응을 얻어서 게임 개발을 접고 슬랙을 본업으로 바꾸었다고 한다.
 
+</br>
+
 <h3> <i>Slack's Advantage</i></h3>
 
+</br>
+
 1. 무료 버전으로 가입해도 인원수와 기능에 제한이 없다.
-	>Slack은 얼마든지 무료로 사용이 가능하다. 커뮤니케이션 툴에 걸맞게 인원제한, 기능에 큰 제한 없이 무료로 사용이 가능하다. 다만 유료회원으로 전환이 되면, 많은 기능이 제공되는데, 그 기능들 중 일부는 아래와 같다. (참고링크 : <a href="https://slack.com/intl/en-kr/pricing" target="_blank">여기</a>)
-	><img src='./markdown/img/slack_price.png' />
-	><img src="./markdown/img/slack_advanced_func.png" />
+	>Slack은 얼마든지 무료로 사용이 가능하다. 커뮤니케이션 툴에 걸맞게 인원제한, 기능에 큰 제한 없이 무료로 사용이 가능하다. 다만 유료회원으로 전환이 되면, 많은 기능이 제공되는데, 그 기능들 중 일부는 아래와 같다. (참고링크 : <a href="https://slack.com/intl/en-kr/pricing" target="_blank">여기</a>)</br>
+	><img src='./markdown/img/slack_price.png' /></br>
+	><img src="./markdown/img/slack_advanced_func.png" /></br>
+
+</br>
 
 2. 기존 솔루션과의 연결성
 	> Slack은 다른 업무 툴과의 연결성이 굉장히 좋다. 구글드라이브, 드롭박스, 트렐로 등과 연동이 되어, 연결된 구글드라이브나 트렐로에 새로운 파일, 일정 등과 같은 이벤트가 발생하면 알람으로 보내주어서 일일이 다른 사람들에게 이벤트 발생에 대한 내용을 보내지 않아도 공유가 가능하다.
+
+</br>
 
 <h3> <i>Slack's Disadvantage</i></h3>
 
 1. 커뮤니케이션 툴, 딱 거기까지.
 	> Slack은 커뮤니케이션 툴 그 이상 그 이하도 아니다. 그래서 다른 여러가지 업무를 하려면 결국 다른 업무용 툴을 사용해야 한다는 한계점이 존재한다. 그래서 우리에게 있어, 카카오톡 같이 친숙한 존재도 아니고 다른 기능들은 존재하지 않는 애매한 커뮤니케이션 툴일 수 있다.
 
+</br>
 
 <h3><i>Slack이 우리 회사에 어울릴까?</i></h3>
 
