@@ -113,11 +113,9 @@
 
 </br>
 
+<center><img src="./markdown/img/collabee_logo.png" width="300"/></center>
 
 ## Collabee - "당신이 사용하는 Tool의 Collaboration"
-
-
-<center><img src="./markdown/img/collabee_logo.png" width="300"/></center>
 
 #### About Collabee
 
