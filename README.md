@@ -56,6 +56,8 @@
 
 *****
 
+</br>
+
 <center><img src="./markdown/img/git_pic.png" width="550"/></center>
 
 
@@ -108,6 +110,7 @@
 </br></br>
 *****
 
+</br>
 ## Collabee - "당신이 사용하는 Tool의 Collaboration"
 
 
@@ -149,3 +152,9 @@
 #### Collabee가 우리회사랑 잘 어울릴까?
 
 > 콜라비는 2%가 아쉬운 툴이다. 왜냐하면 툴을 왔다갔다하는 시간, 툴 사용법을 익히는 시간을 줄여주는 것은 분명 강점이고 좋은점이다. 하지만 아직 개발 진행중인 기능들이 많기 때문에 우리 회사에 어울리는 좋은 툴이지만 2%가 부족한 툴이다.
+
+</br></br>
+
+*****
+
+<img src="./markdown/img/slack_pic.png" width="550"/>
